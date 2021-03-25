@@ -19,7 +19,7 @@ Non-authentic Hadith Corpus
     7. Authenticity  
     8. Topic.
 
-* We will continue building and annotating this corpus, to add several Hadith books.
+
 
 # If you use this corpus, kindly site the paper:
 Tarmom T, Atwell E, Alsalka MA. 2020. Non-authentic Hadith Corpus: Design and Methodology. International Journal on Islamic Applications in Computer Science And Technology. 13-19 8.3
