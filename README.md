@@ -31,6 +31,6 @@ Non-authentic Hadith Corpus
 
 
 
-# If you use this corpus, Please site this paper:
+# If you use the NAH corpus, Please site this paper:
 Tarmom T, Atwell E, Alsalka MA. 2020. Non-authentic Hadith Corpus: Design and Methodology. International Journal on Islamic Applications in Computer Science And Technology. 13-19 8.3
 http://eprints.whiterose.ac.uk/155642/
