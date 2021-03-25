@@ -1,4 +1,4 @@
-# NAH_Hadith_Corpus
+# NAH-Hadith-Corpus
 Non-authentic Hadith Corpus
 
 * Arabic Hadith corpus
