@@ -9,6 +9,8 @@ Non-authentic Hadith Corpus
 
 * Some of these books have both Hadiths (authentic and NAH), while others only contain NAH.
 
+* In NAH_Contents.csv, you will find the list of all Hadith books in this corpus.
+
 * The annotating process was done to determine eight primary features for each Hadith in this corpus:
     1. No.
     2. Full Hadith, 
@@ -21,6 +23,6 @@ Non-authentic Hadith Corpus
 
 
 
-# If you use this corpus, kindly site the paper:
+# If you use this corpus, Please site this paper:
 Tarmom T, Atwell E, Alsalka MA. 2020. Non-authentic Hadith Corpus: Design and Methodology. International Journal on Islamic Applications in Computer Science And Technology. 13-19 8.3
 http://eprints.whiterose.ac.uk/155642/
